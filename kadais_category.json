@@ -1,0 +1,82 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Restaurant"
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Retail Store"
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Salon"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Fitness Center/Gym"
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Tech Company/IT Services"
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Healthcare Provider/Clinic"
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "Real Estate Agency"
+  },
+  {
+    "categoryId": 8,
+    "categoryName": "Financial Institution/Bank"
+  },
+  {
+    "categoryId": 9,
+    "categoryName": "Legal Services/Law Firm"
+  },
+  {
+    "categoryId": 10,
+    "categoryName": "Educational Institution/School"
+  },
+  {
+    "categoryId": 11,
+    "categoryName": "Travel Agency/Tour Operator"
+  },
+  {
+    "categoryId": 12,
+    "categoryName": "Entertainment Venue"
+  },
+  {
+    "categoryId": 13,
+    "categoryName": "Automotive Services"
+  },
+  {
+    "categoryId": 14,
+    "categoryName": "Construction Company/Contractor"
+  },
+  {
+    "categoryId": 15,
+    "categoryName": "Marketing Agency/Advertising Firm"
+  },
+  {
+    "categoryId": 16,
+    "categoryName": "Food Truck/Food Service Provider"
+  },
+  {
+    "categoryId": 17,
+    "categoryName": "Pet Services"
+  },
+  {
+    "categoryId": 18,
+    "categoryName": "Event Planning/Management"
+  },
+  {
+    "categoryId": 19,
+    "categoryName": "Cleaning Services"
+  },
+  {
+    "categoryId": 20,
+    "categoryName": "E-commerce/Online Retail"
+  }
+]
